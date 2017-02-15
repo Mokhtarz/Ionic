@@ -1,0 +1,14 @@
+page-front {
+}
+.scroll-content {
+    background-color: $lg-color;
+    ul {
+        display: flex;
+        flex-flow: column wrap;
+        align-content: center;
+        li {
+            padding: 1em;
+            width: 480px;
+        }
+    }
+}
